@@ -22,8 +22,6 @@ This project analyzes Superstore sales data using Excel, MySQL, Python, and Powe
 4. Interactive Dashboard Creation in Power BI
 
 ## Dashboard Preview
-
-![Dashboard](Screenshot 2026-06-07 015652.png)
-
+![Dashboard](./Screenshot%202026-06-07%20015652.png)
 ## Author
 Ananya Katiyar
